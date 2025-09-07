@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muscab Ahmed👋</h1>
-<h3 align="center">Backend Engineer | APIs, Distributed Systems, & Infrastructure as Code (Terraform) | AWS, K8s, Docker</h3>
+<h3 align="center">Backend Engineer | Node.js, REST APIs, System Design, Clean Architecture | AWS, Kubernetes, Terraform, CI/CD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuscabBackendDev&label=Profile%20views&color=0e75b6&style=flat" alt="MuscabBackendDev" /> </p>
 
